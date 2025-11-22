@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 This is story 3 by Dhruv Panchani
 
 Making some changes to this file to check the multiple branch cocept in the gitHub.
 
 Thank you for giving me the chance of the learning and making some wonderful changes...........
-=======
 This is story 3 by Arpita Panchani
->>>>>>> featrue1
